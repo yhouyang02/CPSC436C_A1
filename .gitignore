@@ -1,0 +1,9 @@
+*.ipynb
+*.pdf
+*.docx
+
+.ipynb_checkpoints/
+
+sentiment_analysis_lambda_image/aws
+sentiment_analysis_lambda_image/nltk_data
+sentiment_analysis_lambda_image/*.zip
